@@ -1,0 +1,19 @@
+﻿  FileName.cpp
+D:\Code\Project4\Project4\FileName.cpp(37,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(37,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(43,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(43,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(52,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(52,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(62,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(62,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(67,66): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(67,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(70,58): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(70,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(269,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(269,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(275,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(275,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\Project4\Project4\FileName.cpp(284,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project4.vcxproj -> D:\Code\Project4\x64\Debug\Project4.exe
